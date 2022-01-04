@@ -1,10 +1,7 @@
 # FinTech Case Study
+![NRT](./NRT.png)
 ## Overview and Origin
-* Name of company
-* When was the company incorporated?
-* Who are the founders of the company?
-* How did the idea for the company (or project) come about?
-* How is the company funded? How much funding have they received?
+NRT Technology was founded in 1984 and launched in 1993 by John Dominelli, an engineer with more than four decades of experience in the gaming and retail technology industries, a visionary leader credited with several inventions that have dramatically changed the technology landscape. NRT has become one of the most innovative gaming technology solutions in the world. John's original goal was point-of-sale (POS) services for the North American market and delivering pieces and part solutions for POS devices. NRT is a privately held for profit corporation that serves a multitude of customers such as Mohegan Sun, Boyd Gaming Corporation, MGM Resorts International, Casino Niagara, Caesars Entertainment, Las Vegas Sands Corp., Genting Group and Wynn Resorts and processes more than $20 billion of ATM and POS transactions every year.
 ## Business Activities:
 * What specific financial problem is the company or project trying to solve?
 * * Who is the company's intended customer? Is there any information about the
