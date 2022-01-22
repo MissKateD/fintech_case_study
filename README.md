@@ -9,6 +9,7 @@ NRT Technology provides software solutions, develops enterprise payment systems,
   - Payment Processing
 * What have been the major trends and innovations of this domain over the last 5-
 10 years?
+  - SmartSEND
   - Play+
   - Lilly
 * What are the other major companies in this domain?
@@ -16,18 +17,12 @@ NRT Technology provides software solutions, develops enterprise payment systems,
   - Global Payments
   - Everi
 ## Results
-* What has been the business impact of this company so far?
-* What are some of the core metrics that companies in this domain use to measure
-success? How is your company performing, based on these metrics?
-* How is your company performing relative to competitors in the same domain?
+NRT has transformed how currency moves throughout the gaming industry. By partnering with other technology companies they have been able to introduce innovative digital currency transactions for guests and players. This technology enables players at casinos and online gaming sites to instantly send winnings into their bank account or mobile wallet.
 ## Recommendations
-* If you were to advise the company, what products or services would you suggest
-they offer? (This could be something that a competitor offers, or use your
-imagination!)
-* Why do you think that offering this product or service would benefit the
-company?
-* What technologies would this additional product or service utilize?
-* Why are these technologies appropriate for your solution?
+If I were to advise the company on which products or services they could offer it would be limited to upgrading their current technologies as they are one of the leaders in the gaming industry as far as innovation. They stay 10 steps ahead of their competition when it comes to new ideas. A suggestion I would make to the company is for them to look into the laws and regulations in each state the are wanting to do business with prior demonstartions of their product.
 ### Resources
 https://www.nrttech.com/
+
 https://www.linkedin.com/company/nrttechnology/
+
+https://www.businesswire.com/news/home/20211001005052/en/AptPay-and-NRT-Technology-Launch-Instant-Payout-Service-for-the-Casino-Gaming-Industry
