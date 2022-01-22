@@ -19,7 +19,7 @@ NRT Technology provides software solutions, develops enterprise payment systems,
 ## Results
 NRT has transformed how currency moves throughout the gaming industry. By partnering with other technology companies they have been able to introduce innovative digital currency transactions for guests and players. This technology enables players at casinos and online gaming sites to instantly send winnings into their bank account or mobile wallet.
 ## Recommendations
-If I were to advise the company on which products or services they could offer it would be limited to upgrading their current technologies as they are one of the leaders in the gaming industry as far as innovation. They stay 10 steps ahead of their competition when it comes to new ideas. A suggestion I would make to the company is for them to look into the laws and regulations in each state the are wanting to do business with prior demonstartions of their product.
+If I were to advise the company on which products or services they could offer it would be limited to upgrading their current technologies as they are one of the leaders in the gaming industry as far as innovation. They stay 10 steps ahead of their competition when it comes to new ideas. A suggestion I would make to the company is for them to look into the laws and regulations in each state the are wanting to do business with prior to setting up demonstrations of their product.
 ### Resources
 https://www.nrttech.com/
 
